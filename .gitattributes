@@ -1,0 +1,2 @@
+# Region files are large binary world data. Store them in Git LFS.
+*.mca filter=lfs diff=lfs merge=lfs -text

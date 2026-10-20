@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:talked_to_villager": 1,
+      "minecraft:time_since_rest": 38778,
+      "minecraft:walk_one_cm": 36653,
+      "minecraft:leave_game": 4,
+      "minecraft:mob_kills": 51,
+      "minecraft:damage_dealt": 10200,
+      "minecraft:play_time": 38778,
+      "minecraft:jump": 61,
+      "minecraft:time_since_death": 38778,
+      "minecraft:sprint_one_cm": 983,
+      "minecraft:inspect_dispenser": 12,
+      "minecraft:total_world_time": 80295,
+      "minecraft:fly_one_cm": 29528,
+      "minecraft:walk_on_water_one_cm": 347,
+      "minecraft:crouch_one_cm": 6217,
+      "minecraft:sneak_time": 3117
+    },
+    "minecraft:killed": {
+      "minecraft:villager": 51
+    },
+    "minecraft:used": {
+      "minecraft:oak_trapdoor": 3,
+      "minecraft:smooth_stone": 7,
+      "minecraft:lever": 1,
+      "minecraft:bricks": 2,
+      "minecraft:stone_button": 2,
+      "minecraft:dispenser": 2,
+      "minecraft:iron_block": 1,
+      "minecraft:rail": 8,
+      "minecraft:water_bucket": 7,
+      "minecraft:villager_spawn_egg": 72,
+      "minecraft:oak_sign": 1,
+      "minecraft:glass": 146,
+      "minecraft:redstone_torch": 1,
+      "minecraft:bucket": 2,
+      "minecraft:powered_rail": 28,
+      "minecraft:light_gray_wool": 26
+    },
+    "minecraft:picked_up": {
+      "minecraft:stone_button": 1,
+      "minecraft:rail": 1,
+      "minecraft:minecart": 9,
+      "minecraft:powered_rail": 4
+    }
+  },
+  "DataVersion": 4671
+}

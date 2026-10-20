@@ -1,0 +1,5 @@
+# Minecraft creates this while a world is open; it must never be restored from Git.
+**/session.lock
+
+# Transient files that can be left behind after a crash or interrupted save.
+**/*.tmp
